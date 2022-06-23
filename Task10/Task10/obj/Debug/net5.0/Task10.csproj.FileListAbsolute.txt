@@ -37,3 +37,5 @@ C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\T
 C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\Task10\obj\Debug\net5.0\Task10.genruntimeconfig.cache
 C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\Task10\obj\Debug\net5.0\ref\Task10.dll
 C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\Task10\obj\Debug\net5.0\Task10.csproj.CopyComplete
+C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\Task10\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Antoni\Desktop\VisualStudio\APBD\tutorial10\tutorial-10-s20824\Task10\Task10\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
