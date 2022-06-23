@@ -26,7 +26,7 @@ namespace Task10.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
-                        Rating = "7/10",
+                        Rating = "PG-16",
                         Price = 7.99M
                     },
 
@@ -35,7 +35,7 @@ namespace Task10.Models
                         Title = "Ghostbusters ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
-                        Rating = "8/10",
+                        Rating = "PG-13",
                         Price = 8.99M
                     },
 
@@ -44,7 +44,7 @@ namespace Task10.Models
                         Title = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
-                        Rating = "7.5/10",
+                        Rating = "PG-13",
                         Price = 9.99M
                     },
 
@@ -53,7 +53,7 @@ namespace Task10.Models
                         Title = "Rio Bravo",
                         ReleaseDate = DateTime.Parse("1959-4-15"),
                         Genre = "Western",
-                        Rating = "9/10",
+                        Rating = "PG-18",
                         Price = 3.99M
                     }
                 );
